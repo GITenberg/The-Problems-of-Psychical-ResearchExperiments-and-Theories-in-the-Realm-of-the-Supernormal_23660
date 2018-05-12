@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5832
     wikipedia: http://en.wikipedia.org/wiki/Hereward_Carrington
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23660#The-Problems-of-Psychical-ResearchExperiments-and-Theories-in-the-Realm-of-the-Supernormal
 gutenberg_issued: '2007-11-29'
 gutenberg_type: Text
 identifiers:
